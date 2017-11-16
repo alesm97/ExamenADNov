@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Google Drive/Desarrollo de aplicaciones/Segundo/Acc Datos/Librerias/xstream-distribution-1.4.10-bin/xstream-1.4.10/lib/xstream-1.4.10.jar!/" />
+      <root url="jar://$USER_HOME$/Google Drive/Desarrollo de aplicaciones/Segundo/Acc Datos/Librerias/gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
